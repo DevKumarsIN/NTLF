@@ -1,0 +1,14 @@
+{
+  "name": "ntlf-2026-root",
+  "version": "1.0.0",
+  "description": "NTLF 2026 Website Root - Proxy scripts to React project",
+  "scripts": {
+    "dev": "cd react-components && npm run dev",
+    "build": "cd react-components && npm run build",
+    "preview": "cd react-components && npm run preview",
+    "install-deps": "cd react-components && npm install"
+  },
+  "keywords": ["ntlf", "react", "website"],
+  "author": "NASSCOM",
+  "license": "MIT"
+}
